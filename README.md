@@ -4,6 +4,8 @@
 ## Programs
 1. PVP Minigame
 + This is a lua turns pvp minigame I made with a friend of mine
+2. Inventory Update
++ Since I'm trash at JS i decided to complete this FreeCodeCamp challenge in Lua..
 
 ## Authors
 * **ikova** - [ikova](https://github.com/ikovaa)

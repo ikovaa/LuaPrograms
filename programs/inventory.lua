@@ -73,5 +73,3 @@ function UpdateInventory(arr1, arr2)
 end
 
 UpdateInventory(curInv, newInv)
-
-

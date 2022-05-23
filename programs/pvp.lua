@@ -88,7 +88,7 @@ function Next(args)
 end
 
 
---[[ 
+--[[
   Checks if any of the players health is lower or equal to 0
 ]]
 function Win()
@@ -114,6 +114,5 @@ function Reset()
     player1.health = 100
     player2.health = 100
 end
-
 
 Main()
